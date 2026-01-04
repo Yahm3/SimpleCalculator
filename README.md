@@ -22,7 +22,7 @@ The motivation for this project stems from a personal need to avoid borrowing a 
 3. Start using the calculator for your calculations!
 
 ## Available online
-**link**: https://innocent-ops806.github.io/SimpleCalculator/
+**link**: https://Yahm3.github.io/SimpleCalculator/
 
 ## Technology Used
 - **HTML** for the structure.
